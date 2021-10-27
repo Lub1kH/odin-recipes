@@ -1,0 +1,1 @@
+This project is about HTML basics and applying them in a rather simple website enviroment
